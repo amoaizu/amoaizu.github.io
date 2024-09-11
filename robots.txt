@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://amoaizu.github.io/sitemap/sitemap.txt
